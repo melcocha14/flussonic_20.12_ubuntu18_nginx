@@ -6,8 +6,6 @@ sudo su
 
 apt install git
 
-Clonando Repositorio
-
 git clone https://github.com/melcocha14/flussonic_20.12_ubuntu18_nginx
 
 cd flussonic_20.12_ubuntu18_nginx/
