@@ -1,6 +1,6 @@
 # Instalar Flusonic en Ubuntu 18 con Nginx
 
-Instalar como root
+###Instalar como root###
 
 sudo su
 
